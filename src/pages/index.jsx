@@ -78,7 +78,6 @@ export default function Home() {
                 <h3 className=" text-lg font-medium">Code</h3>
                 <p className="py-2">Learning By Doing.</p>
                 <h4 className=" py-4 text-slate-900">Development Tools I use</h4>
-                <p className=" text-white py-1">VS Code</p>
                 <p className=" text-white py-1">React</p>
                 <p className=" text-white py-1">Next js</p>
                 <p className=" text-white py-1">Django</p>
